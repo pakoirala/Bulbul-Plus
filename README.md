@@ -1,21 +1,51 @@
-![Logo](https://github.com/pakoirala/Mirmire-Plus/blob/main/Logo%20Bannar.jpg)
-<h1 align="center">Hi 👋, I'm PA Koirala</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" widtg="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pakoirala&label=Profile%20views&color=0e75b6&style=flat" alt="pakoirala" /> </p>
-
-- 🔭 I’m currently working on **Edius Projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pa koirala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pa koirala" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mirmire plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mirmire plus" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pakoirala&show_icons=true&locale=en&layout=compact" alt="pakoirala" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pakoirala&show_icons=true&locale=en" alt="pakoirala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pakoirala&" alt="pakoirala" /></p>
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Mirmire Plus Official Website</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Masthead-->
+        <header class="masthead bg-primary text-white text-center">
+            <div class="container d-flex align-items-center flex-column">
+                <!-- Masthead Avatar Image-->
+                <img class="masthead-avatar mb-5" src="Mirmire.png" alt="..." />
+                <!-- Masthead Heading-->
+                <h1 class="masthead-heading text-uppercase mb-0">Mirmire Plus</h1>
+                <!-- Masthead Subheading-->
+                <p class="masthead-subheading font-weight-light mb-0">मिर्मिरे प्लसमा यहाँहरुलाई स्वागत छ ।</p>
+                <nav>
+                    <a href="http://youtube.com/MirmireProduction"><i class="fab fa-youtube"></i></a>
+                    <a href="http://facebook.com/PAKoirala"><i class="fab fa-facebook-f"></i></a>
+                    <a href="http://github.com/pakoirala/Mirmire-Plus"><i class="fab fa-github"></i></a>
+                </nav>
+              
+               
+            </div>
+        </header>
+        <!-- Copyright Section-->
+        <div class="copyright py-4 text-center text-white">
+            <div class="container"><small>Copyright &copy; 2023 Mirmire Plus</small></div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
